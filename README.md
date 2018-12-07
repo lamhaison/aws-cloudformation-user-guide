@@ -1,6 +1,4 @@
 ## AWS Cloudformation User Guide
-
-
 The open source version of the AWS CloudFormation User Guide
 
 ## License Summary
